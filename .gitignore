@@ -1,1 +1,27 @@
-/target
+# Rust
+/target/
+Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test artifacts
+/test-results/
+/screenshots/
+
+# Platform-specific
+*.dll
+*.so
+*.dylib
+*.exe
