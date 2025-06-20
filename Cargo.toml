@@ -1,0 +1,12 @@
+[package]
+name = "bryndza"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "coming soon"
+repository = "https://github.com/knnmran/bryndza"
+readme = "README.md"
+keywords = []
+categories = []
+
+[dependencies]
